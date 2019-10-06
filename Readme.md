@@ -1,6 +1,6 @@
 # Проект «Глейси»
 
-* Вёрстка: [Николай Карастелев](https://github.com/bini1988).
+* Вёрстка: [Ольга Гардер](https://github.com/).
 * Макет: [HTML Academy](https://htmlacademy.ru).
 * Спецификация: [Specification.md](https://github.com/bini1988/gllacy/blob/master/Specification.md).
 
